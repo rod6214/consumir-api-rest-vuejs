@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import HomePage from './pages/HomePaged.vue';
+import HomePage from './pages/HomePage.vue';
 import Navbar from './components/Navbar';
 
 export default {
