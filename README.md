@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/code4kb/consumir-api-rest-vuejs/master/src/assets/header-vue.png" alt="Consume Rest Api with Vue.js" width="160" height="160" align="right"/>
 
-![CI](https://github.com/rod6214/consumir-api-rest-vuejs/workflows/CI/badge.svg)
+![CI](https://github.com/rod6214/consumir-api-rest-vuejs/workflows/CI/badge.svg?branch=checker)
 
 # ⚡ Consume api rest with Vue.js
 
