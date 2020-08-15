@@ -33,3 +33,7 @@ jobs:
       run: |
         npm install
         npm run build
+    - uses: actions/upload-artifact@v2
+      with:
+        name: code4kb_artifacts
+        path: dist
